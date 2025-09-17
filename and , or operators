@@ -1,0 +1,8 @@
+a=10
+b=20
+if(a>0 or b>0):
+    print("true for and operation")
+elif(a>0 or b>0):
+    print("true for or operation")
+elif(a==0 and b==0):
+    print("a=0 and b=0")
