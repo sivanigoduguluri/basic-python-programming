@@ -1,0 +1,5 @@
+arr=[22,34,3,4354,345,56,56]
+target=int(input(""))
+for i in range(len(arr)):
+  if arr[i]==target:
+    print(i)
